@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on baking the perfect Crème caramel.
-- 🌱 I’m currently learning how to make dairy free Crème caramel.
-- 👯 I’m looking to collaborate on meeting awesome cyberspace denizens.
-- 🤔 I’m looking for help with any of the above.
-- 💬 Ask me about ... anything?
-- 📫 How to reach me: Probably not GitHub since I've got notifications turned off!
-- ⚡ Fun fact: In JavaScript, you can divide numbers by 0 which returns `Infinity` 🧐
+- 🔭 &nbsp; I’m currently working on baking the perfect Crème caramel.
+- 🌱 &nbsp; I’m currently learning how to make dairy free Crème caramel.
+- 👯 &nbsp; I’m looking to collaborate on meeting awesome cyberspace denizens.
+- 🤔 &nbsp; I’m looking for help with any of the above.
+- 💬 &nbsp; Ask me about ... anything?
+- 📫 &nbsp; How to reach me: Probably not GitHub since I've got notifications turned off!
+- ⚡ &nbsp; Fun fact: In JavaScript, you can divide numbers by `0` which results in `Infinity` 🧐
   ```js
   const num = 2/0;
   console.log(num); // Infinity 🤯
