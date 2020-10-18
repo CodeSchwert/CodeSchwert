@@ -5,7 +5,7 @@ Dairy free Créme Caramel made with coconut cream instead of milk or cream.
 > Note, this recipe is a WIP.
 
 <div style="margin:15px 5px">
-  <img src="coconut-creme-caramel-v2.png" alt="v2" style="width:250px"></img>
+  <img src="coconut-creme-caramel-v2.png" alt="v2" style="max-width:25%;"></img>
   <div><small>v2 - result of the second sprint! 🤣</small></div>
 </div>
 
