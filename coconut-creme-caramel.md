@@ -4,10 +4,12 @@ Dairy free Créme Caramel made with coconut cream instead of milk or cream.
 
 > Note, this recipe is a WIP.
 
-<figure>
+<div style="margin:15px 5px">
   <img src="coconut-creme-caramel-v2.png" alt="v2" style="width:250px"></img>
-  <figcaption>v2 - result of the second sprint! 🤣</figcaption>
-</figure>
+  <div><small>v2 - result of the second sprint! 🤣</small></div>
+</div>
+
+## Getting Started
 
 First thing, preheat oven to 170C.
 
