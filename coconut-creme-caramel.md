@@ -13,6 +13,8 @@ Dairy free Créme Caramel made with coconut cream instead of milk or cream.
 
 First thing, preheat oven to 170C.
 
+The recipe makes enough for about 4 ramekins, or 4 half-cups 🤷‍♂️.
+
 ## Caramel
 
 - 1/4 cup sugar
@@ -25,6 +27,8 @@ If you need to move the sugar/caramel/mixture around to heat it evenly, pick up 
 Once the sugar thickens and resembles a syrup, pour the caramel into ramekins.
 
 ## Flan
+
+<!-- v3 recipe -->
 
 - 2 cups coconut cream 
 - 2 eggs
