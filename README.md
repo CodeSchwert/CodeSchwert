@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭&emsp;I’m currently working on baking the perfect Crème caramel.
-- 🌱&emsp;I’m currently learning how to make [dairy free Crème caramel](coconut-creme-caramel.md).
+- 🔭&emsp;I’m currently working on a local voice enabled AI chatbot.
+- 🌱&emsp;I’m currently learning a bunch of local AI tools like ComfyUI, WAN2GP, Llama.cpp:server.
 - 👯&emsp;I’m looking to collaborate on meeting awesome cyberspace denizens.
 - 🤔&emsp;I’m looking for help with any of the above.
 - 💬&emsp;Ask me about ... anything?
